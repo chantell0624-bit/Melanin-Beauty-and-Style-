@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Melanin Beauty and Style</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!-- NAVIGATION -->
+  <nav class="navbar">
+    <div class="logo">Melanin Beauty and Style</div>
+    <ul class="nav-links">
+      <li><a href="#home">Home</a></li>
+      <li><a href="#services">Services</a></li>
+      <li><a href="#pricing">Pricing</a></li>
+      <li><a href="#gallery">Gallery</a></li>
+      <li><a href="#policies">Policies</a></li>
+      <li><a href="#contact">Contact</a></li>
+      <li><a href="https://square.link/u/lNp7YY8P" target="_blank" class="btn-book">Book Now</a></li>
+    </ul>
+  </nav>
+
+  <!-- HOME SECTION -->
+  <section id="home" class="hero">
+    <h1>Welcome to Melanin Beauty and Style</h1>
+    <p>Professional Micro-Loc Installs, Maintenance & Hair Care</p>
+    <a href="https://square.link/u/lNp7YY8P" target="_blank" class="btn-book">Book Now</a>
+  </section>
+
+  <!-- SERVICES SECTION -->
+  <section id="services">
+    <h2>Micro-Loc Services</h2>
+    <div class="services-grid">
+      <div class="service-card">
+        <h3>Consultation</h3>
+        <p>30–45 minutes consultation, scalp analysis, loc size selection, parting patterns, and starter advice.</p>
+        <span class="price">$40</span>
+      </div>
+      <div class="service-card">
+        <h3>Starter Install (Short Hair)</h3>
+        <p>2–6 inch hair, coil or two-strand twists, hydration and scalp prep, aftercare guide.</p>
+        <span class="price">$350+</span>
+      </div>
+      <div class="service-card">
+        <h3>Starter Install (Long Hair)</h3>
+        <p>6+ inch hair, thicker or longer hair requiring more time, includes aftercare guide.</p>
+        <span class="price">$450+</span>
+      </div>
+      <div class="service-card">
+        <h3>Maintenance / Retwist</h3>
+        <p>Interlocking or palm-rolling, includes scalp cleansing and conditioning.</p>
+        <span class="price">$75–$85</span>
+      </div>
+      <div class="service-card">
+        <h3>Deep Scalp Detox (Add-on)</h3>
+        <p>Clarifying detox, steam treatment, hydration mask.</p>
+        <span class="price">$35</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- PRICING SECTION -->
+  <section id="pricing">
+    <h2>Pricing</h2>
+    <table>
+      <tr><th>Service</th><th>Price</th></tr>
+      <tr><td>Consultation</td><td>$40</td></tr>
+      <tr><td>Starter Install (Short Hair)</td><td>$350+</td></tr>
+      <tr><td>Starter Install (Long Hair)</td><td>$450+</td></tr>
+      <tr><td>Interlock Maintenance</td><td>$85+</td></tr>
+      <tr><td>Retwist Maintenance</td><td>$75+</td></tr>
+      <tr><td>Loc Repair</td><td>$10–$25 per loc</td></tr>
+      <tr><td>Deep Scalp Detox</td><td>$35</td></tr>
+    </table>
+  </section>
+
+  <!-- GALLERY SECTION -->
+  <section id="gallery">
+    <h2>Gallery</h2>
+    <div class="gallery-grid">
+      <img src="images/loc1.jpg" alt="Micro loc install">
+      <img src="images/loc2.jpg" alt="Maintenance result">
+      <img src="images/loc3.jpg" alt="Before & after">
+    </div>
+  </section>
+
+  <!-- POLICIES SECTION -->
+  <section id="policies">
+    <h2>Policies</h2>
+    <ul>
+      <li>Deposits required for all services.</li>
+      <li>No-show or late arrivals may forfeit deposit.</li>
+      <li>Hair must be clean and detangled before appointments.</li>
+      <li>Children’s appointments require adult supervision.</li>
+      <li>Refunds only for cancellations with 48-hour notice.</li>
+    </ul>
+  </section>
+
+  <!-- CONTACT SECTION -->
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:melaninbeauty@example.com">melaninbeauty@example.com</a></p>
+    <p>Phone: (XXX) XXX-XXXX</p>
+    <p>Instagram: <a href="https://instagram.com/melaninbeautyandstyle" target="_blank">@melaninbeautyandstyle</a></p>
+    <p>Business Hours: Tue–Sat 9AM–5PM</p>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <p>© 2025 Melanin Beauty and Style</p>
+  </footer>
+
+</body>
+</html>
